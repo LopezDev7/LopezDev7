@@ -97,21 +97,19 @@ Experiencia construyendo APIs, lógica de servidor y sistemas eficientes, con at
 
 ---
 
-## 📊 Estadísticas
+## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img 
-    height="160" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=LopezDev7&show_icons=true&theme=tokyonight&hide_border=true&hide=issues"
-  />
-  
-  <img 
-    height="160" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LopezDev7&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img width="600" src="https://lecoq.io" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://herokuapp.com" />
+  <img width="48%" src="https://vercel.app" />
 </p>
 
 ---
+
 
 ## ⚡ Principio
 
