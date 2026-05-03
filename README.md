@@ -100,12 +100,20 @@ Experiencia construyendo APIs, lógica de servidor y sistemas eficientes, con at
 ## 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img width="600" src="https://lecoq.io" />
+  <!-- Tarjeta de Metrics: La más completa y moderna -->
+  <img width="100%" src="https://lecoq.io" alt="LopezDev7's Metrics" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://herokuapp.com" />
-  <img width="48%" src="https://vercel.app" />
+  <!-- Tu racha actual de días programando -->
+  <img width="49%" src="https://herokuapp.com" alt="LopezDev7's Streak" />
+  <!-- Tus lenguajes reales actualizados -->
+  <img width="49%" src="https://vercel.app" alt="LopezDev7's Top Langs" />
+</p>
+
+<p align="center">
+  <!-- Tus logros y trofeos de GitHub -->
+  <img src="https://vercel.app" alt="LopezDev7's Trophies" />
 </p>
 
 ---
