@@ -99,12 +99,22 @@ Experiencia construyendo APIs, lógica de servidor y sistemas eficientes, con at
 
 ## 📊 Mi Actividad en GitHub
 
-<p align="center">
-  <img height="180" src="https://vercel.app" alt="Estadísticas de LopezDev7" />
-  
+## 📊 Estadísticas
 
-  <img height="180" src="https://vercel.app" alt="Lenguajes más usados por LopezDev7" />
+<p align="center">
+  <img 
+    height="160" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=LopezDev7&show_icons=true&theme=tokyonight&hide_border=true&hide=issues"
+  />
+  
+  <img 
+    height="160" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LopezDev7&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
+
+---
+
 ---
 
 
